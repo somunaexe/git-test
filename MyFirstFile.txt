@@ -1,3 +1,5 @@
 here is some text,
-This is the text to integrate the second new feature
+then some more text to go,
+This is the text to integrate the second new feature,
+This is just random text,
 Here is some more text
